@@ -26,7 +26,7 @@
 
 ### Ответ 1
 
-![Схема]()
+![Схема](https://github.com/nabinary/netology-nzagirov-hw/blob/main/Disaster%20recovery%20%D0%B8%20Keepalived/screen1.png)
 ------
 
 
@@ -39,9 +39,9 @@
 
 ### Ответ 2
 
-![Статус сервиса на 1 сервере]()
-![статус сервиса на 2 сервере]()
-![Ответ в браузере]()
+![Статус сервиса на 1 сервере](https://github.com/nabinary/netology-nzagirov-hw/blob/main/Disaster%20recovery%20%D0%B8%20Keepalived/screen2.png)
+![статус сервиса на 2 сервере](https://github.com/nabinary/netology-nzagirov-hw/blob/main/Disaster%20recovery%20%D0%B8%20Keepalived/screen3.png)
+![Ответ в браузере](https://github.com/nabinary/netology-nzagirov-hw/blob/main/Disaster%20recovery%20%D0%B8%20Keepalived/screen4.png)
 
 ------
 
