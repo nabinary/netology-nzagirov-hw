@@ -43,6 +43,11 @@
 ![статус сервиса на 2 сервере](https://github.com/nabinary/netology-nzagirov-hw/blob/main/Disaster%20recovery%20%D0%B8%20Keepalived/screen3.png)
 ![Ответ в браузере](https://github.com/nabinary/netology-nzagirov-hw/blob/main/Disaster%20recovery%20%D0%B8%20Keepalived/screen4.png)
 
+
+
+[Скрипт](./script.sh)
+[keepalived-config](./keepalived.conf)
+
 ------
 
 ## Дополнительные задания со звёздочкой*
