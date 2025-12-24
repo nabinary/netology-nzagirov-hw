@@ -55,4 +55,4 @@
 
 ![crontab](./screenshots/crontab.png)
 
-![Скрипт](./cron.sh)
+[Скрипт](./cron.sh)
